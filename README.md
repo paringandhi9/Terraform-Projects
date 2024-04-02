@@ -66,16 +66,6 @@ This setup follows AWS security best practices, including:
 - AWS CloudWatch has been configured to monitor the health and performance of the services.
 - AWS CloudTrail is enabled to log and retain account activity related to actions across the AWS infrastructure.
 
-## Contributions
-Your contributions are always welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file before submitting your contributions.
-
-## License
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-Special thanks to the AWS community and all the developers who shared their insights and contributed to the development of this robust Ecommerce platform setup.
-
-For any queries, feel free to reach out to me directly here on GitHub or through [my LinkedIn profile](https://www.linkedin.com/in/parin-gandhi-741156245/).
 ```
 
 Remember to replace `./path-to-architecture-diagram` with the actual path to your architecture diagram within the GitHub repository. If you have any contribution guidelines, be sure to include them in a separate `CONTRIBUTING.md` file and reference them correctly. Adjust any other placeholders with the relevant information to your project.
