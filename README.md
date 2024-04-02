@@ -3,7 +3,6 @@
 Host a Dynamic Ecommerce Website on AWS with Terraform
 
 
-Sure, here's a README.md structure for your GitHub project "Host a Dynamic Ecommerce Website on AWS with Terraform". Make sure to personalize the README with any additional details and upload any scripts, diagrams, or other relevant files to your repository.
 
 ```markdown
 # Host a Dynamic Ecommerce Website on AWS with Terraform
